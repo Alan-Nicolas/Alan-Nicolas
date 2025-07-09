@@ -24,6 +24,8 @@
   <img width="12" />
   <img src="https://tse2.mm.bing.net/th/id/OIP.KOgdVGbeNBew7B0lgNxr9AHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="30" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://th.bing.com/th/id/R.69fd3c72048a64a8c5c11bc786e88571?rik=PM3I5OL5L5FObg&pid=ImgRaw&r=0" height="30" alt="html5 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
