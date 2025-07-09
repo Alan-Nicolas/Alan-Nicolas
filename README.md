@@ -1,4 +1,4 @@
-<h3 align="left">System.out.println("Olá, me chamo Alan Nicolas, sou Desenvolvedor Full Stack").</h3>
+<h3 align="left">System.out.println("Olá, me chamo Alan Nicolas, estou me desenvolvendo para ser Desenvolvedor Full Stack").</h3>
 
 ###
 
@@ -8,8 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src=""  />
 
 ###
 
